@@ -1,0 +1,8 @@
+database/*
+!database/
+!database/**/
+__pycache__/
+*.py[cod]
+*$py.class
+weights/pretrained/*
+!weights/pretrained/.gitkeep
